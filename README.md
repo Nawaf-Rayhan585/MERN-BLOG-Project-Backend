@@ -1,4 +1,4 @@
-## <h1>MERN BLOG PROJECT</h1>
+## <h1>MERN BLOG PROJECT</h1> 
 ## <p>Backend Part</p>
 
 <h3>✨ Discover and share your passions on our vibrant blog platform! ✨</h3>
